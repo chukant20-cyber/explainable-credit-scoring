@@ -1,0 +1,12 @@
+LendingClub Explanations
+months_since_last_credit_inquiry    0.286057
+account_never_delinq_percent        0.115085
+loan_amount                         0.091289
+verified_income_Source Verified     0.073069
+total_debit_limit                   0.043778
+loan_purpose_debt_consolidation     0.007542
+emp_length                          0.000000
+annual_income                       0.000000
+debt_to_income                      0.000000
+delinq_2y                           0.000000
+dtype: float64

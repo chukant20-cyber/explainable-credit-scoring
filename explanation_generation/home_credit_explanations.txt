@@ -1,0 +1,12 @@
+Home Credit Explanations
+AMT_GOODS_PRICE                         0.450445
+EXT_SOURCE_3                            0.375373
+AMT_CREDIT                              0.373173
+EXT_SOURCE_2                            0.252706
+CODE_GENDER_F                           0.162780
+NAME_EDUCATION_TYPE_Higher education    0.139097
+EXT_SOURCE_1                            0.121188
+FLAG_OWN_CAR_Y                          0.098611
+AMT_ANNUITY                             0.096976
+NAME_FAMILY_STATUS_Married              0.095619
+dtype: float64

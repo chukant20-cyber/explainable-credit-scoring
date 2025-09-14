@@ -1,0 +1,12 @@
+UCI Credit Card Explanations
+PAY_0_2      0.341887
+LIMIT_BAL    0.186935
+PAY_6_0      0.155831
+PAY_0_1      0.141859
+PAY_0_0      0.141634
+BILL_AMT2    0.106614
+PAY_0_-1     0.081659
+PAY_3_2      0.079744
+SEX_2        0.076956
+PAY_AMT1     0.072169
+dtype: float64
